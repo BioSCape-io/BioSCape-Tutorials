@@ -1,2 +1,2 @@
-# bisocaoe-tutorials
-Examples from bioSCape Office Hours Questions
+# BioSCape Tutorials
+Examples from BioSCape Office Hours Questions. 
